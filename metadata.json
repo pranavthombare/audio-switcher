@@ -5,7 +5,9 @@
 	"3.30",
 	"3.32",
 	"3.34",
-	"40"
+	"40",
+	"41",
+	"42"
     ],
     "uuid": "audio-switcher@AndresCidoncha",
     "name": "Audio Switcher",
