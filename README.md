@@ -24,7 +24,7 @@ For Gnome Shell < 3.26, use version 1.0.
 Via git
 
 `
-git clone git@github.com:AndresCidoncha/audio-switcher.git ~/.local/share/gnome-shell/extensions/audio-switcher@AndresCidoncha
+git clone git@github.com:pranavthombare/audio-switcher.git ~/.local/share/gnome-shell/extensions/audio-switcher
 `
 
 Then restart the gnome-shell via **ALT+F2**, typing in the box **r** and enable the extension using gnome-tweak-tool
@@ -32,7 +32,7 @@ Then restart the gnome-shell via **ALT+F2**, typing in the box **r** and enable 
 To update later:
 
 `
-(cd ~/.local/share/gnome-shell/extensions/audio-switcher@AndresCidoncha && git pull)
+(cd ~/.local/share/gnome-shell/extensions/audio-switcher && git pull)
 `
 
 ## Credits
