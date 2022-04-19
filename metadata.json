@@ -5,12 +5,12 @@
 	"3.30",
 	"3.32",
 	"3.34",
-	"40",
-	"41",
-	"42"
+	"40.0",
+	"41.0",
+	"42.0"
     ],
-    "uuid": "audio-switcher@AndresCidoncha",
+    "uuid": "audio-switcher",
     "name": "Audio Switcher",
     "description": "Adds a switch for choosing audio input/output to the system menu. (Makes InputSlider always visible)",
-    "url": "http://github.com/AndresCidoncha/audio-switcher"
+    "url": "http://github.com/pranavthombare/audio-switcher"
 }
